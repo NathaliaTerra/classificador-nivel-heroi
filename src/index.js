@@ -1,4 +1,4 @@
-const nickName = " NaTerra ";
+const nickName = " NathyTerra ";
 
 let xp = 0;
 let classificacao = "";
@@ -40,4 +40,4 @@ switch(true) {
 
 }
 
-console.log("O Herói de nome" + nickName + "está no nível de " + classificacao);
+console.log("O Herói" + nickName + "está no nível de " + classificacao);
