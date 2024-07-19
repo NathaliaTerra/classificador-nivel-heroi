@@ -1,4 +1,4 @@
-const nickName = " NathyTerra ";
+const nickName = " NaTerra ";
 
 let xp = 0;
 let classificacao = "";
